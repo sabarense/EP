@@ -1,2 +1,2 @@
 # EP 📈 #
-Repositório de códigos da disciplina de Estatística e Probabilidade
+Repositório de arquivos da disciplina de Estatística e Probabilidade
